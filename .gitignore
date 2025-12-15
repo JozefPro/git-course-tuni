@@ -1,7 +1,10 @@
 # Folders
 build/
 
-
+# Unwanted file types
+*.in 
+*.out 
+*.pyc
 
 # Prerequisites
 *.d
