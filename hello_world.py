@@ -3,7 +3,7 @@
 """Simple Hello World script."""
 
 def main():
-    print("Hello from feature")
+    print("Hello World!")
 
 if __name__ == "__main__":
     main()
